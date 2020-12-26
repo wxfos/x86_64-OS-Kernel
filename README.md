@@ -1,4 +1,4 @@
-# x86_64-os-kernel
+# x86_64-OS-Kernel
 x86_64 operating system kernel that is Multiboot2 compliant.
 
 ## Prerequisites
